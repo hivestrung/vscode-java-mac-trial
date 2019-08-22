@@ -1,0 +1,1 @@
+# vscode-java-mac-trial
